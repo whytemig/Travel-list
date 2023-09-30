@@ -1,5 +1,7 @@
 ## Welcome to the Beginner-Level React Project
 
+[project image](https://github.com/whytemig/Travel-list/blob/main/public/Travel-list.png)
+
 
 
 
